@@ -7,7 +7,7 @@ const experiences = [
     {
         company: 'Infosys, India',
         role: 'Full Stack .NET Developer',
-        period: '2023 - Present',
+        period: 'Nov 2024 - Present',
         type: 'Full-time',
         color: 'from-indigo-500 to-purple-500',
         points: [
